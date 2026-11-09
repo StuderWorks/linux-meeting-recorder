@@ -53,7 +53,7 @@ sudo pacman -S gpu-screen-recorder ffmpeg python-pyqt6 libnotify
 ## Install
 
 ```sh
-git clone https://github.com/JamesStuder/linux-meeting-recorder
+git clone https://github.com/StuderWorks/linux-meeting-recorder
 cd linux-meeting-recorder
 ./install.sh
 ```
